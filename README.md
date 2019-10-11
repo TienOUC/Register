@@ -1,6 +1,7 @@
 ### Register
-[API Doc](https://github.com/TienOUC/Register/blob/master/Register/doc/index.html)   
+[API Doc](htmlpreview.github.io/?https://github.com/TienOUC/Register/blob/master/Register/doc/index.html)   
 
++ **Dependencies**
 > body-parser: 1.19.0   
 > express: 4.17.1   
 > mongoose: 5.7.4   
