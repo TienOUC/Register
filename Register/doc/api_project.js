@@ -1,0 +1,1 @@
+define({  "name": "Register API Doc",  "version": "1.0.0",  "description": "",  "title": "Register API",  "url": "http://127.0.0.1:3000",  "sampleUrl": false,  "defaultVersion": "0.0.0",  "apidoc": "0.3.0",  "generator": {    "name": "apidoc",    "time": "2019-10-11T10:51:00.240Z",    "url": "http://apidocjs.com",    "version": "0.17.7"  }});
