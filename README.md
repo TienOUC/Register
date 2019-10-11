@@ -1,5 +1,5 @@
 ### Register
-[API Doc](htmlpreview.github.io/?https://github.com/TienOUC/Register/blob/master/Register/doc/index.html)   
+[API Doc](https://willtien.com/Register/Register/doc/index.html)
 
 + **Dependencies**
 > body-parser: 1.19.0   
