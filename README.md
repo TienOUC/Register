@@ -1,9 +1,6 @@
 ### Register
-<<<<<<< HEAD
-[API Doc](https://willtien.com/Register/Register/doc/index.html)   
-=======
+
 [API Doc](https://willtien.com/Register/Register/doc/index.html)
->>>>>>> fdd830b062793a284a334f7f58ecdacab7c7f66f
 
 + **Dependencies**
 > body-parser: 1.19.0   
